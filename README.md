@@ -16,3 +16,11 @@
 ### 1. Programming Fundamentals Lab Solutions
 * Developed bug-free C programs for data inputs, formatting, and standard variable rules.
 * Managed version control using Git and terminal tracking.
+
+## Hobbies & Extracurriculars
+1. Playing Sports
+   - [x] Cricket practice on weekends
+   - [ ] Join the university tournament team
+2. Reading Books
+   - [x] Finished reading the first novel
+   - [ ] Complete 2 tech blogs this month
